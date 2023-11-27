@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\bin\Debug\net6.0\ArithmeticOperationDelegate.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\bin\Debug\net6.0\ArithmeticOperationDelegate.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\bin\Debug\net6.0\ArithmeticOperationDelegate.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\bin\Debug\net6.0\ArithmeticOperationDelegate.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\bin\Debug\net6.0\ArithmeticOperationDelegate.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\refint\ArithmeticOperationDelegate.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ArithmeticOperationDelegate.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\27-11-2023\ArithmeticOperationDelegate\ArithmeticOperationDelegate\obj\Debug\net6.0\ref\ArithmeticOperationDelegate.dll
